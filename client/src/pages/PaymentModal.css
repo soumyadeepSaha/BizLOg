@@ -1,0 +1,21 @@
+.payment-modal {
+  width: 100%;
+  max-width: 400px;
+}
+
+.payment-modal form {
+  display: flex;
+  flex-direction: column;
+}
+
+.payment-modal form .flex {
+  display: flex;
+}
+
+.payment-modal form .flex img {
+  margin-right: 0.5rem;
+}
+
+.payment-modal form .flex select {
+  margin-right: 0.5rem;
+}
